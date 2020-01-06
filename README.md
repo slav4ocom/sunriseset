@@ -3,7 +3,8 @@ It works with apache web server
 
 index_days.exe is CGI program. It is compiled with visual studio C# 2010 as console program.
 The project is very simple with only one file program.cs that includes all necessary source code.
-Nevertheless index_days.exe is provided here
+Nevertheless index_days.exe is provided here, compiled for .NET Framework 4. This means that
+computer running Apache must have .NET Framework 4 installed on it. 
 
 
 in htdocs directory you must have:
