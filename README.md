@@ -19,7 +19,7 @@ For example if you use xampp compilation of Apache you may configure as follows:
 
 #!"c:\xampp\cgi-bin\index_days.exe" c:\xampp\cgi-bin\days.csv c:\xampp\cgi-bin\visits.txt
 
-Both days.csv and visits.txt must exist prior to access index web page, otherwise
+Both **days.csv** and **visits.txt** must exist prior to access index web page, otherwise
 program will not work and Apache may stall.
 
 **days.csv** is Comma Separated Values file with ';' as separator symbol. 
