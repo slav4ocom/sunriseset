@@ -1,4 +1,6 @@
 This simple CGI written on C# shows sunrise and sunset time
+===========================================================
+
 It works with apache web server
 
 index_days.exe is CGI program. It is compiled with visual studio C# 2010 as console program.
